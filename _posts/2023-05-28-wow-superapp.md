@@ -11,4 +11,4 @@ background: '/img/posts/wow-promo/header.jpg'
 <p>Is Dangerous? : NO</p>
 
 <p>Below image shows how spamming they are.</p>
-<img src="/img/posts/wow-promo/sms.jpg">
+<img alt="wow superapp promo spam" src="/img/posts/wow-promo/sms.jpg">
