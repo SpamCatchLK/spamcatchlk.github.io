@@ -1,6 +1,6 @@
 title:              Spam Catch Sri Lanka
 email:              spamcatchlk@gmail.com
-description:        We catch spams, that running on Sri Lanka
+description:        Let's catch ugly spammers in Sri Lanka
 author:             SpamCatchLK
 baseurl:            "/"
 permalink: "/:title/"
