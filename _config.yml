@@ -3,6 +3,7 @@ email:              spamcatchlk@gmail.com
 description:        We catch spams, that running on Sri Lanka
 author:             SpamCatchLK
 baseurl:            "/"
+permalink: "/:title/"
 url:                "https://spamcatchlk.github.io"
 
 # Social Profiles
