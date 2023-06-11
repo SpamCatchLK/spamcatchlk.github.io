@@ -11,4 +11,5 @@ background: '/img/posts/fake-meta-ad-campaign/header.jpg'
 
 <p>This Ad campaign spread a malware that can steal your facebook cookies. Then they can login to your facebook account.</p>
 <img class="img-fluid" alt="facebook ad campaign malware" src="/img/posts/fake-meta-ad-campaign/ad.jpg">
+
 <img class="img-fluid" alt="fake Meta Business Support page" src="/img/posts/fake-meta-ad-campaign/page-details.jpg">
